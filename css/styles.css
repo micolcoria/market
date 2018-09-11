@@ -1,0 +1,41 @@
+body {
+    margin:0
+}
+header img {
+    text-align: center;
+    width: 100%;
+}
+aside {
+    background-color: #CCD5FF;
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+label {
+    display: inline-block;
+    margin: 10px;
+}
+span {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
+section {
+    text-align: center;
+    display: inline-block;
+    float: left;
+    width: 900px;
+}
+p {
+    text-align: center;
+}
+.elemen1 {
+    display: inline-block;
+    width: 30%;
+    border: 2px dashed violet;
+}
+.elemen1 img {
+    width: 100%;
+}
